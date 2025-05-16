@@ -1,6 +1,6 @@
 # Enterprise MCP Server
 
-A robust Microservice Control Plane (MCP) server implementation for managing tool execution across multiple service integrations.
+Github based  Anthropic Model contex Protocol (MCP) server implementation for managing  Agentic tool execution across multiple service integrations.
 
 ## Overview
 
